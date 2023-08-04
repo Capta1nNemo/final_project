@@ -1,0 +1,41 @@
+task4 2023-08-04 19:30:56,019 Adding common companies into table common_vacancies:
+task4 2023-08-04 19:30:56,029 added: Райт Скан
+task4 2023-08-04 19:30:56,280 added: билайн
+task4 2023-08-04 19:30:56,324 added: Лига Цифровой Экономики
+task4 2023-08-04 19:30:56,468 added: ДЖАСТ ВОРК
+task4 2023-08-04 19:30:56,611 added: Tevian (ООО Технологии видеоанализа)
+task4 2023-08-04 19:30:56,650 added: РА Дельта
+task4 2023-08-04 19:30:56,687 added: Ростелеком - Центры обработки данных
+task4 2023-08-04 19:30:56,725 added: МТС
+task4 2023-08-04 19:30:56,748 added: DNS Технологии
+task4 2023-08-04 19:30:56,803 added: Совкомбанк Технологии
+task4 2023-08-04 19:30:56,872 added: ГЛОРИЯ ДЖИНС
+task4 2023-08-04 19:30:56,950 added: Перспективный стартап
+task4 2023-08-04 19:30:57,160 added: Инновационный центр КАМАЗ
+task4 2023-08-04 19:30:57,242 added: Компания Орбита
+task4 2023-08-04 19:30:57,262 added: БАРС Груп
+task4 2023-08-04 19:30:57,287 added: СВЯЗЬ GROUP
+task4 2023-08-04 19:30:57,396 added: МТС
+task4 2023-08-04 19:30:57,417 Top 10 skills and adding top skills into table top_skills:
+task4 2023-08-04 19:30:57,424 Python - 16 vacancies
+task4 2023-08-04 19:30:57,424 added: Python
+task4 2023-08-04 19:30:57,429 Git - 8 vacancies
+task4 2023-08-04 19:30:57,430 added: Git
+task4 2023-08-04 19:30:57,435 Flask - 8 vacancies
+task4 2023-08-04 19:30:57,435 added: Flask
+task4 2023-08-04 19:30:57,440 PostgreSQL - 8 vacancies
+task4 2023-08-04 19:30:57,440 added: PostgreSQL
+task4 2023-08-04 19:30:57,445 Redis - 7 vacancies
+task4 2023-08-04 19:30:57,445 added: Redis
+task4 2023-08-04 19:30:57,450 Django Framework - 7 vacancies
+task4 2023-08-04 19:30:57,451 added: Django Framework
+task4 2023-08-04 19:30:57,453 SQL - 7 vacancies
+task4 2023-08-04 19:30:57,453 added: SQL
+task4 2023-08-04 19:30:57,456 Docker - 7 vacancies
+task4 2023-08-04 19:30:57,456 added: Docker
+task4 2023-08-04 19:30:57,458 RabbitMQ - 5 vacancies
+task4 2023-08-04 19:30:57,459 added: RabbitMQ
+task4 2023-08-04 19:30:57,461 REST - 5 vacancies
+task4 2023-08-04 19:30:57,461 added: REST
+task4 2023-08-04 19:30:57,461 Time: 0:00:01
+task4 2023-08-04 19:30:57,462 STOP PROJECT
